@@ -134,7 +134,7 @@ section{
 	display: inline-block;
 	padding: 12px 28px;
 	background: var(--main-color);
-	border-radius: 5px;
+	border-radius: 20px;
 	color: var(--text-color);
 	font-size: 1rem;
 	letter-spacing: 1px;
