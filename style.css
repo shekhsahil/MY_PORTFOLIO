@@ -18,8 +18,8 @@
 	--p-font: 1.1rem;
 }
 body{
-/* 	background: var(--bg-color); */
-	 background-image: url("pbg.jpg");
+	background: var(--bg-color);
+/* 	 background-image: url("pbg.jpg"); */
 	color: var(--text-color);
 }
 header{
